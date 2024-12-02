@@ -1,0 +1,20 @@
+# Ignorar arquivos temporários do VSCode
+.vscode/
+*.code-workspace
+
+# Ignorar arquivos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar dependências
+node_modules/
+*.lock
